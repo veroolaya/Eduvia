@@ -1,0 +1,1 @@
+document.write('¡Bienvenidos a Eduvia!');
